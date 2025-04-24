@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/bespoke-gift-genius/", // 👈 Add this line
+  base: "/bespoke-gift-genius/",
   server: {
     host: "::",
     port: 8080,
